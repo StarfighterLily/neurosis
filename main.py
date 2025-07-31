@@ -1,7 +1,6 @@
-
 import pygame
 from ui_controls import setup_fonts
-from simulation import Simulation
+from simulator import Simulation
 
 pygame.init()
 setup_fonts()
